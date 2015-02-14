@@ -13,8 +13,8 @@ I am a book publisher. I make public the writing, imagery and other media of (ho
 - EPUB did something other earlier formats had failed to do, it allowed publishers to "make public" digital books in a way that was more universal, open and sustainable. Mostly.
 - So yes, I actually do love EPUB
 - For its qualities as a publication format
-- And that's what I'm attempting to do here, speak about tehe qualities of digital books. Of the special things that makes them worthy of love and attention, that defines them against other digital formats. 
-– Becasue EPUB is just one of many formats out there now, and more yet to come. SO our focus here is not on format, but on the qualties of books, and on the digital tools and approaches that make those books happen. 
+- And that's what I'm attempting to do here, speak about the qualities of digital books. Actually, the qualities of all books. Of the special things that makes them worthy of love and attention, that defines them against other digital formats. 
+– Because EPUB is just one of many formats out there now, and more yet to come. So our focus here is not on format, but on the qualities of books, and on the digital tools and approaches that make those books happen. 
 
 
 
