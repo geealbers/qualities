@@ -1,5 +1,7 @@
 ### Overview
 
+Outside of those imposed by particular publishing platforms like iBooksAuthor, the Kindle, and others, what are the qualities of digital publications that we should strive for as authors, designers, publishers, and readers? What universal ideals define a digital publication or book, as opposed to other digital media? The current e-book explosion, propelled first by Amazon's release of its Kindle reading device in 2007, is not even a decade old, but it is time we start to think more holisticaly about what it means to make and read e-books. Though device and software makers have so far been the dominant voices in establishing what an e-book is and how it operates, it is time for authors and publishers to make their own way, just as they have done successfully for print books for the past several centuries.
+
 ### Author Bio
 
 ### Table of Contents
