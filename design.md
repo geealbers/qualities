@@ -13,5 +13,6 @@ We're going to speak here about the places where print book design and web desig
 - running heads / nav carrots
 - pages (regions, columns, scroll)
 - image handling
+- special cover design considerations
 
 The more complicated and specific your design, the more chances for it to break.
