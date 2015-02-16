@@ -1,4 +1,15 @@
-### Comparables/Market
+### Overview
+
+### Author Bio
+
+### Table of Contents
+
+- Design
+- Longevity
+- Objectness
+- Interaction
+
+### Comparables/Competition
 
 - [*EPUB 3 Best Practices*](http://shop.oreilly.com/product/0636920024897.do), Matt Garrish and Markus Gylling. O'Reilly Media, 2013. 372p. $24.99–29.99
 - [*HTML5 for Publishers*](http://shop.oreilly.com/product/0636920022473.do), Sanders Kleinfeld. O'Reilly Media, 2011. 56p. $0
@@ -12,3 +23,5 @@
 - [*Mobile Strategies for Digital Publishing*](Mobile Strategies for Digital Publishing), Thad McIlroy. DBW, 2015. 117p. $9.99–34.99
 
 While there are numerous books and resources for web design, best practices, strategies and technologies, there is quite little focused on ebooks and digital publications. What books there are tend to focus on specific platforms and formats (EPUB, iBooksAuthor, Adobe DPS); specific areas like metadata or marketing; or are geared to a self-publishing audience simply looking for nuts-and-bolts how-to guides. There are no books out there that address the design and strategies of digital publications in a more in-depth way that would be applicable to a wider audience. No books showcasing the beauty of digital publication, or theorizing its place in the larger technological universe.
+
+### Marketing
